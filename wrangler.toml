@@ -1,4 +1,4 @@
-name = "your-worker-name" # Replace with your worker name
+name = "last-man" # Replace with your worker name
 type = "javascript" # Use "esm" for ES modules
 account_id = "c6601c63dbb4784928f937403d8480ab" # Replace with your Cloudflare account ID
 compatibility_date = "2025-01-08" # Update with today's date
