@@ -19,6 +19,8 @@
 - 获取CF自家域名无限节点：[点击进入观看](https://youtu.be/novrPiMsK70)
 - 报错 Error 1101 和 522 解决方案教程：[点击进入观看](https://youtu.be/4fcyJjstFdg)
 
+ [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Amchapeey/am-cf-tunnel)
+
 ## Workers 部署方法 [视频教程](https://www.youtube.com/watch?v=dPH63nITA0M&t=151s)
 1. 部署 Cloudflare Worker：
    - 在 Cloudflare Worker 控制台中创建一个新的 Worker。
